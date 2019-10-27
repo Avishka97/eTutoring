@@ -1,0 +1,25 @@
+﻿
+body {
+}
+
+.container{
+    width:960px;
+    margin:0 auto;
+}
+
+.header{
+    width:auto;
+    height:100px;
+}
+.menu{
+    width:auto;
+    height:50px;
+    background-color:flavor;
+}
+.content{
+    width:auto;
+}
+.footer{
+    width:auto;
+    height:100px;
+}
